@@ -83,8 +83,6 @@ Titan Cruise is a reservation management system created to streamline the cruise
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/zildian-tablan
-- LinkedIn: https://linkedin.com/in/yourusername
 - Email: zildiantablan@gmail.com
 
 ---
