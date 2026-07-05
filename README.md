@@ -27,7 +27,7 @@
 ### Web Technologies
 - HTML
 - CSS
-- 
+  
 ### Databases
 - MySQL
 - SQL
